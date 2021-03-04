@@ -71,7 +71,7 @@ const INFOR_CV_VN = {
                 },
                 {
                     name: 'Vị trí/ Trách nhiệm',
-                    value: 'Triển khai-Frontend'
+                    value: 'Triển khai'
                 },
                 {
                     name: 'Công nghệ sử dụng',
@@ -90,7 +90,7 @@ const INFOR_CV_VN = {
                 },
                 {
                     name: 'Vị trí/ Trách nhiệm',
-                    value: 'Triển khai-Frontend'
+                    value: 'Triển khai'
                 },
                 {
                     name: 'Công nghệ sử dụng',
@@ -109,7 +109,7 @@ const INFOR_CV_VN = {
                 },
                 {
                     name: 'Vị trí/ Trách nhiệm',
-                    value: 'Triển khai-Frontend'
+                    value: 'Triển khai'
                 },
                 {
                     name: 'Công nghệ sử dụng',
@@ -128,7 +128,7 @@ const INFOR_CV_VN = {
                 },
                 {
                     name: 'Vị trí/ Trách nhiệm',
-                    value: 'Triển khai-Frontend'
+                    value: 'Triển khai'
                 },
                 {
                     name: 'Công nghệ sử dụng',
@@ -234,7 +234,7 @@ const INFOR_CV_EN = {
                 },
                 {
                     name: 'Position/ Responsibilities',
-                    value: 'Implement-Frontend'
+                    value: 'Implement'
                 },
                 {
                     name: 'Used Technologies',
@@ -253,7 +253,7 @@ const INFOR_CV_EN = {
                 },
                 {
                     name: 'Position/ Responsibilities',
-                    value: 'Implement-Frontend'
+                    value: 'Implement'
                 },
                 {
                     name: 'Used Technologies',
@@ -272,7 +272,7 @@ const INFOR_CV_EN = {
                 },
                 {
                     name: 'Position/ Responsibilities',
-                    value: 'Implement-Frontend'
+                    value: 'Implement'
                 },
                 {
                     name: 'Used Technologies',
@@ -291,7 +291,7 @@ const INFOR_CV_EN = {
                 },
                 {
                     name: 'Position/ Responsibilities',
-                    value: 'Implement-Frontend'
+                    value: 'Implement'
                 },
                 {
                     name: 'Used Technologies',
