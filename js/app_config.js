@@ -58,7 +58,7 @@ const INFOR_CV_VN = {
             value: 'MySQL'
         }
     ],
-    descriptionCV: 'Tôi là Ngô Quang Huy. Hiện tại tôi là một Software Developer. Hiện tại tôi đang chuẩn bị cho kì bảo vệ đồ án tốt nghiệp vào tháng 3 tại đại học Bách Khoa Hà Nội và từng tham gia hướng dẫn học viên học tập và thực hành mảng lập trình frontend cơ bản,  tại câu lạc bộ ITStudent. Với các kinh nghiệm tham dự triển khai một hệ thống website từ bước phân tích yêu cầu khách hàng cho đến khi sản phẩm được triển khai, cùng với tinh thần học hỏi, trách nhiệm trong công việc tôi hy vọng sẽ được làm việc cùng với anh/chị góp phần nhỏ vào sự phát triển của công ty.',
+    descriptionCV: 'Tôi là Ngô Quang Huy. Hiện tại tôi là một Software Developer. Hiện tại tôi đang học tại trường đại học Bách Khoa Hà Nội và từng tham gia trợ giảng mảng lập trình frontend,  tại câu lạc bộ ITStudent. Với các kinh nghiệm tham dự triển khai một hệ thống website từ bước phân tích yêu cầu khách hàng cho đến khi sản phẩm được triển khai, cùng với tinh thần học hỏi, trách nhiệm trong công việc tôi hy vọng sẽ được làm việc cùng với anh/chị góp phần nhỏ vào sự phát triển của công ty.',
     experiences: [
         {
             name: 'Quy hoạch sử dụng đất và giá đất',
@@ -221,7 +221,7 @@ const INFOR_CV_EN = {
             value: 'MySQL'
         }
     ],
-    descriptionCV: 'I am Ngo Quang Huy. Currently I am a Software Developer. I am currently preparing for the graduation project defense in March at Hanoi University of Technology and have been involved in guiding students to learn and practice basic frontend programming, at the ITStudent club. With the experience of participating in implementing a website system from analyzing customer requirements until the product is deployed, with the spirit of learning and responsibility in work I hope to work with you make a small contribution to the development of the company',
+    descriptionCV: 'My name is Ngo Quang Huy. Currently I am a Software Developer. Currently, I am studying at Hanoi University of Science and Technology and used to be a frontend teaching assistant at the ITStudent club. With the experience of participating in implementing a website system from analyzing customer requirements until the product is deployed, with the spirit of learning and responsibility in work I hope to work with you make a small contribution to the development of the company. ',
     experiences: [
         {
             name: 'Manage land use planning information and land prices',
